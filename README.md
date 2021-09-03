@@ -1,16 +1,39 @@
-### Hi there 👋
+## Automated and Autonomous Driving
 
-<!--
-**JimmyKim0820/JimmyKim0820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🍀 **자율주행 인지기술**
 
-Here are some ideas to get you started:
+🍀 **센서 퓨전 (LIDAR, CAMERA, CAN, EyeTracker)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 Certificate of registration
+
+- **2013.3.  - 2015. 2.**      인천하늘고등학교 재학
+- **2016.3.  -**                   국민대학교 자동차IT융합학과 재학
+- **2017.4.  - 2019. 1.**      군복무
+- **2019.12.-**                    KaAI Lab(前 부회장)
+
+---
+
+### 💡 Awards and Honors
+
+- **일본 FORUM8**   제 8회 Cloud Programming World Cup, 월드컵상(1등)
+- **한국과학창의재단**   2020년 학부생 연구프로그램(= URP), 프로젝트 선정
+- **한국자동차공학회_KSAE**   캡스톤디자인경진대회, 장려상
+
+---
+
+### 💡 Conference Presentation
+
+- **한국자동차공학회**  2020년 추계학술대회 포스터발표
+- **대한기계학회** 2021년 IT융합부분 춘계학술대회 포스터발표
+
+---
+
+### 💡 Internship
+
+- **2020.7. - 8.**      국민대 산학협력단 학부생 연구 인턴십 (딥러닝, 센서개발 / 연구책임자 : 이상헌 교수)
+- **2021.1. - 6.**       국민대 학생연구원 (POOL / 연구책임자 : 이상헌 교수)
+- **2021.9. - 12.**     ICT 연계 대구경북과학기술원 인턴십 (진행중)
+
+---
